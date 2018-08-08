@@ -33,6 +33,7 @@ class EmployeeTable extends Component {
   }
 }
 
+
 EmployeeTable.defaultProps = {
   employees: []
 };
